@@ -25,6 +25,6 @@ int main()
 			cin>>n;
 		}
 		else break;
-	}
+	} 
 	cout<<"Correct value = "<<n;
 }
