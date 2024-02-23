@@ -4,7 +4,12 @@ int main()
 {
     float x,y;
     char ch;
-    cin>>x>>ch>>y;
+    cout<<"Enter 1st number : ";
+    cin>>x;
+    cout<<"Enter 2nd number : ";
+    cin>>y;
+    cout<<"Enter opertion : ";
+    cin>>ch;
     switch(ch)
     {
         case '+':
